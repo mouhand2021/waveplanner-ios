@@ -1,0 +1,6 @@
+src/
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+package-lock.json
+karma.conf.js
