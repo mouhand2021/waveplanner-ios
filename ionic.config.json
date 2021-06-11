@@ -1,5 +1,7 @@
 {
   "name": "thewaveplanner",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
